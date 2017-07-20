@@ -10,7 +10,7 @@ An application that facilitates transfers of patients between hospitals. Green f
 
 ## Good Medicine.
 
-A platform where hospitals can post short to medium term jobs for physicians, handles the documentation and verifications physicians need to provide to hospitals, and allows scheduling. Similar to www.nomad.com. Technologies used include Meteor, React, Flow Types, Ramda, and Materialize CSS. (www.locums.signalhealthpartners.com)[https://locums.signalhealthpartners.com]
+A platform where hospitals can post short to medium term jobs for physicians, handles the documentation and verifications physicians need to provide to hospitals, and allows scheduling. Similar to www.nomad.com. Technologies used include Meteor, React, Flow Types, Ramda, and Materialize CSS. [www.locums.signalhealthpartners.com](https://locums.signalhealthpartners.com)
 
 ## PyCoach.
 
